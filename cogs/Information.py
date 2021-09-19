@@ -1,6 +1,5 @@
 #-------------------------------------------------------
 
-from functools import total_ordering
 import discord
 
 from discord.ext import commands
